@@ -6,7 +6,8 @@ return {
 	"ApeGamerJuice",
 	"AzuraSkids",
 	"iamtocoolngl", -- the god
-	"LittleFemboys"
+	"LittleFemboys",
+	"BLK_Jamescharles"
 }
 
 
