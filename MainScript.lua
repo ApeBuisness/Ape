@@ -1,3 +1,13 @@
+
+
+if isfile("ApeKey.lua") == false then
+   writefile("ApeKey.lua", "--Place Key Under--")
+   game:GetService("Players").LocalPlayer:kick("Please Put Ur Key In The File Called 'ApeKey.lua'")
+elseif isfile("ApeKey.lua") == true then
+    _G.wl_key = tostring(readfile("ApeKey.lua"))
+end
+
+
 --[[
     
    _____  __________ ___________ ____   ____ ________
