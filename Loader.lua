@@ -3,7 +3,7 @@
 
 local thingy = queue_on_teleport or syn.queue_on_teleport
 
-thingy("loadstring(game:HttpGet('https://raw.githubusercontent.com/ApeBuisness/Ape/main/MainScript.lua', true))()")
+thingy("loadstring(game:HttpGet('https://raw.githubusercontent.com/ApeBuisness/Ape/main/Loader.lua', true))()")
 
 
 if game.PlaceId == 6872265039 then
